@@ -34,3 +34,10 @@ www.baidu.com
 baidu.com
 na-newuser-tcl.cedock.com
 privacy-policy.truste.com
+
+
+#Odd
+applytics.napps-3.com
+downloads.napps-1.com
+napps-1.com
+ip.claspws.tv
