@@ -1,0 +1,36 @@
+#Block (Ads / Tracking)
+
+ad.doubleclick.net
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+static.doubleclick.net
+app-measurement.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
+api.statsig.com
+graph.facebook.com
+
+#block Appsflyer
+
+appsflyersdk.com
+lnbowh-launches.appsflyersdk.com
+lnbowh-cdn-settings.appsflyersdk.com
+
+#TCL Telemetry
+
+api.leiniao.com
+res.leiniao.com
+
+#Google TV Recommendations (Optional)
+
+androidtvlauncherxfe-pa.googleapis.com
+androidtvdreamxfe-pa.googleapis.com
+tv.google.com
+playatoms-pa.googleapis.com
+
+#Extra Noise Found
+
+www.baidu.com
+baidu.com
+na-newuser-tcl.cedock.com
+privacy-policy.truste.com
