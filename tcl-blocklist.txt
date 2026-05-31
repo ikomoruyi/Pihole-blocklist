@@ -41,3 +41,11 @@ applytics.napps-3.com
 downloads.napps-1.com
 napps-1.com
 ip.claspws.tv
+
+#microsoft
+inference.location.live.net
+browser.events.data.microsoft.com
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+watson.telemetry.microsoft.com
+self.events.data.microsoft.com
