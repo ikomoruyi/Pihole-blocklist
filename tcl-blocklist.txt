@@ -24,9 +24,9 @@ res.leiniao.com
 #Google TV Recommendations (Optional)
 
 androidtvlauncherxfe-pa.googleapis.com
-androidtvdreamxfe-pa.googleapis.com
+#androidtvdreamxfe-pa.googleapis.com
 tv.google.com
-playatoms-pa.googleapis.com
+#playatoms-pa.googleapis.com
 
 #Extra Noise Found
 
